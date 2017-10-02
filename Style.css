@@ -2,13 +2,9 @@
 	padding: 0px;
 	margin: 0px;
 }
-header, article, aside, footer {
+header, article, aside, footer {}
 	/*border: 1px solid;*/
-<<<<<<< HEAD
-}	
-=======
-}
->>>>>>> 433966e6aa9edd00c2a1a3fc5e1456c653977580
+
 /*-------Menu----------*/
 .menu {
 	padding: 2em;
@@ -77,24 +73,23 @@ aside, article {
   	height: 1000px;
   	text-align: center;
   	border:  1px solid white;
-<<<<<<< HEAD
-=======
+
   	color: white;
->>>>>>> 433966e6aa9edd00c2a1a3fc5e1456c653977580
+
   	z-index: 1;
 }
 aside {
 	background-color: #03829b;
-<<<<<<< HEAD
+
 	max-width: 20%;
-=======
+
 	width: 20%;
->>>>>>> 433966e6aa9edd00c2a1a3fc5e1456c653977580
+
 }
 article {
 	background-color: #56b6c9;
   	position: absolute;
-<<<<<<< HEAD
+
   	max-width: 80%;
 }
 footer {
@@ -115,11 +110,11 @@ footer {
 }
 aside, article, .txtfooter {
 	color: white;
-=======
+
   	width: 80%;
 }
 footer {
 	background-color: #4f848e;
 	height: 50px;
->>>>>>> 433966e6aa9edd00c2a1a3fc5e1456c653977580
+
 }
